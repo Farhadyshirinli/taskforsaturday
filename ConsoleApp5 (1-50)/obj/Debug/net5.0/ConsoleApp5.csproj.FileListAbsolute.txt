@@ -1,0 +1,16 @@
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.exe
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.deps.json
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.json
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.dll
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\User\Code academy\ConsoleApp5\bin\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.dll
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ref\ConsoleApp5.dll
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.pdb
+C:\Users\User\Code academy\ConsoleApp5\obj\Debug\net5.0\ConsoleApp5.genruntimeconfig.cache
